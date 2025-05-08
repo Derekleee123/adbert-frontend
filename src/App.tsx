@@ -1,4 +1,3 @@
-import React from "react";
 import ClickCounter from "./components/ClickCounter";
 import CryptoChart from "./components/CryptoChart";
 
